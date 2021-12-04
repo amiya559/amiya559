@@ -5,8 +5,6 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Abhijay007/Abhijay007/main/coder1.gif" alt="amiya559" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amiya559" alt="amiya559" /></a> </p>
-
 - 🔭 I’m currently working at **GlobalLogic**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amiya559?tab=repositories](https://github.com/amiya559?tab=repositories)
