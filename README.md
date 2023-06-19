@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, Spring Boot**
 
-- 📫 How to reach me **arrout29@gmail.com**
+- 📫 How to reach me [https://www.linkedin.com/in/amiya-rout/](https://www.linkedin.com/in/amiya-rout/)
 
 - 📄 Know about my experiences [https://cutt.ly/EWWiQoD](https://cutt.ly/EWWiQoD)
 
