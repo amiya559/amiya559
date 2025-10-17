@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Amiya Rout</h1>
-<h3 align="center">Enthusiastic Software Engineer with a flair for creating elegant solutions in the least amount of time. Having in-depth knowledge in Java Technology and experience of around one year in the software industry.</h3>
+<h3 align="center">Enthusiastic Data Engineer with a flair for creating elegant solutions in the least amount of time. Having in-depth knowledge in SQL, PySpark and Databricks Technology and experience of around 4 year in the IT industry.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amiya559&label=Profile%20views&color=0e75b6&style=flat" alt="amiya559" /> </p>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Abhijay007/Abhijay007/main/coder1.gif" alt="amiya559" /> </p>
 
-- 🔭 I’m currently working at **Ernst & Young**
+- 🔭 I’m currently working at **Sapient**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amiya559?tab=repositories](https://github.com/amiya559?tab=repositories)
 
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/amiyaranjanrout/articles](https://auth.geeksforgeeks.org/user/amiyaranjanrout/articles)
 
-- 💬 Ask me about **Java, Spring Boot**
+- 💬 Ask me about **Data, SQL, Apache Spark, Databricks, Azure**
 
 - 📫 How to reach me [https://www.linkedin.com/in/amiya-rout/](https://www.linkedin.com/in/amiya-rout/)
 
